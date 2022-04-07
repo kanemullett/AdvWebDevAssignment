@@ -1,0 +1,2 @@
+<h2 style="padding-left: 10%; padding-bottom: 2%; padding-top: 1%;">Order Confirmed</h2>
+<h4 style="padding-left: 10%; padding-right: 10%; padding-bottom: 3%; color: #4a4a4a;">This is the page where if successful, your order confirmation will be shown. Issues arose while attempting to implement a full scale payment system such as PayPal into this website seeing as most understandably air on the side of caution, only allowing provably 'real' businesses to implement their systems. A real business, this is not and as such this page is purely for mock up purposes.</h4>
