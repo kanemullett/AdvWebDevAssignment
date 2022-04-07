@@ -1,0 +1,3 @@
+<h6 style="color: #4a4a4a;">Free local delivery is available for orders over £50 within the United Kingdom & Republic of Ireland. For orders under £50, we charge a variable rate for worldwide delivery. <br /><br />
+
+					Deliveries are made from 09:00-17:00 on Mondays-Fridays. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival. </h6>
